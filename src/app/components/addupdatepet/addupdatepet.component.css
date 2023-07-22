@@ -1,0 +1,17 @@
+form {
+    padding: 20px;
+}
+
+p {
+    width: 100%;
+    margin: 5px;
+}
+
+mat-form-field {
+    width: 100%;
+
+}
+
+.acceptBtn {
+    margin-right: 5px;
+}

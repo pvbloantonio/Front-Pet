@@ -1,0 +1,32 @@
+table {
+    width: 100%;
+
+}
+
+
+
+.mat-mdc-form-field {
+    font-size: 14px;
+    width: 100%;
+}
+
+.delete {
+    cursor: pointer;
+    color: #E15639;
+}
+
+.edit {
+    cursor: pointer;
+    color: #187880;
+}
+
+
+.search {
+    cursor: pointer;
+
+}
+
+.addBtn {
+    font-size: 10px;
+    line-height: 28px;
+}
